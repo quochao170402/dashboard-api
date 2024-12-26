@@ -8,3 +8,4 @@ riderModule.iml
 
 appsettings.*.json
 src/services/**/appsettings.*.json
+dashboard-api.sln.DotSettings.user
